@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="heading1">Location</string>
+    <string name="heading2">Description</string>
+    <string name="tourism_loc1_name">Hollywood Sign"</string>
+    <string name="tourism_loc1_location">Historical landmark in Los Angeles, California 90068</string>
+    <string name="tourism_loc1_desc">The Hollywood Sign is an American landmark and cultural icon overlooking Hollywood, Los Angeles, California. It is situated on Mount Lee, in the Hollywood Hills area of the Santa Monica Mountains. \"HOLLYWOOD\" is spelled out in 45 ft-tall white capital letters and is 350 feet long.</string>
+    <string name="tourism_loc2_name">Disneyland Park</string>
+    <string name="tourism_loc2_location">1313 Disneyland Dr, Anaheim, CA 92802</string>
+    <string name="tourism_loc2_desc">Disneyland Park, originally Disneyland, is the first of two theme parks built at the Disneyland Resort in Anaheim, California, opened on July 17, 1955. It is the only theme park designed and built to completion under the direct supervision of Walt Disney.</string>
+    <string name="tourism_loc3_name">Universal Studios Hollywood</string>
+    <string name="tourism_loc3_location">100 Universal City Plaza, Universal City, CA 91608</string>
+    <string name="tourism_loc3_desc">Universal Studios Hollywood is a film studio and theme park in the San Fernando Valley area of Los Angeles County, California. About 70% of the studio lies within the unincorporated county island known as Universal City while the rest lies within the city limits of Los Angeles, California.</string>
+    <string name="food_loc1_name">Manas Indian Cuisine</string>
+    <string name="food_loc1_location">2823 S Vermont Ave, Los Angeles, CA 90007</string>
+    <string name="food_loc1_desc">We are a restaurant that showcases the foods of colorful India. Steeped in history and traditions, India combines western and eastern influences with it\'s own strong sense of identity to create one of the world\'s most diverse nations.</string>
+    <string name="food_loc2_name">23rd Street Cafe Indian Restaurant</string>
+    <string name="food_loc2_location">936 W 23rd St, Los Angeles, CA 90007</string>
+    <string name="food_loc2_desc">Simple spot serves Mexican, Indian and American fare, plus fusion options such as chicken tikka tacos.</string>
+    <string name="party_loc1_name">The Cat and Fiddle Pub and Restaurant</string>
+    <string name="party_loc1_location">742 N Highland Ave, Los Angeles, CA 90038</string>
+    <string name="party_loc1_desc">Classic pub grub in a punk rock-influenced British bar, reborn from its original Hollywood location.</string>
+    <string name="mall_loc1_name">The Grove</string>
+    <string name="mall_loc1_location">189 The Grove Dr, Los Angeles, CA 90036</string>
+    <string name="mall_loc1_desc">The Grove is a retail and entertainment complex in Los Angeles, located on parts of the historic Farmers Market.</string>
+    <string name="attraction1">Tourism Attractions</string>
+    <string name="attraction2">Food Attractions</string>
+    <string name="attraction3">Party Attractions</string>
+    <string name="attraction4">Mall Attractions</string>
+</resources>
